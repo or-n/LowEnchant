@@ -1,0 +1,4 @@
+name: LowEnchant
+version: 1.0
+main: com.example.LowEnchant.LowEnchant
+api-version: 1.16
